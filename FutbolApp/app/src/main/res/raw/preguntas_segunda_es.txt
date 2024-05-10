@@ -1,0 +1,258 @@
+Albacete,Club,Nombre del estadio en el que disputa sus partidos como local,Carlos Belmonte,Santo Domingo,Nacional de Andorra,La Cerámica
+Albacete,Club,Apodo por el cual son conocidos sus aficionados,Albacetista,Urdinak,Alfareros,Hijos del Frío
+Albacete,Club,Nombre de la mascota del club,Zete,Pepe,Tete,Sepe
+Albacete,Club,Año de fundación del club,1939,1940,1941,1942
+Albacete,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,2º,5º,6º
+Albacete,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,25,30,35,33
+Albacete,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,25º,30º,22º,23º
+Albacete,Segunda División,¿Cuántas veces ha ascendido a primera división?,2,1,3,4
+Albacete,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,0,3,4
+Albacete,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,3,4
+Albacete,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Cuartos de Final,Final,Octavos de Final
+Albacete,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,4,2
+Alcorcón,Club,Nombre del estadio en el que disputa sus partidos como local,Santo Domingo,Santo Sábado,Santo Tomás,Santo
+Alcorcón,Club,Apodo por el cual son conocidos sus aficionados,Alfareros,Efesé,Armeros,Ilicitanos
+Alcorcón,Club,Año de fundación del club,1971,1972,1973,1974
+Alcorcón,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,4º,6º,5º,2º
+Alcorcón,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,11,2,8,19
+Alcorcón,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,42º,35º,14º,25º
+Alcorcón,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,3
+Alcorcón,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,3
+Alcorcón,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Alcorcón,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Cuartos de Final,Semifinal,Final,Octavos de Final
+Alcorcón,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,3,2,5
+Amorebieta,Club,Nombre del estadio en el que disputa sus partidos como local,Campo Municipal de Urritxe,Ipurúa,El Alcoráz,Ciutat de Valencia
+Amorebieta,Club,Apodo por el cual son conocidos sus aficionados,Urdinak,Armeros,Hijos de Frío,Periquitos
+Amorebieta,Club,Año de fundación del club,1925,1926,1927,1928
+Amorebieta,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,19º,14º,5º,2º
+Amorebieta,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,1,2,3,4
+Amorebieta,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,139º,100º,39º,55º
+Amorebieta,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,3
+Amorebieta,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,3
+Amorebieta,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Amorebieta,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,3ª Ronda,Cuartos de Final,Final,Octavos de Final
+Amorebieta,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,1,2
+Andorra,Club,Nombre del estadio en el que disputa sus partidos como local,Nacional de Andorra,La Romareda,Ipurúa,Ciutat de Valencia
+Andorra,Club,Apodo por el cual son conocidos sus aficionados,Andorranos,Oscense,Pepineros,Armeros
+Andorra,Club,Año de fundación del club,1942,1942,1943,1944
+Andorra,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,7º,6º,9º,21º
+Andorra,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,1,2,3,4
+Andorra,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,131º,100º,50º,231º
+Andorra,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,3
+Andorra,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,3
+Andorra,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Andorra,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,3ª Ronda,Cuartos de Final,Final,Octavos de Final
+Andorra,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,3,2
+Burgos,Club,Nombre del estadio en el que disputa sus partidos como local,El Plantío,El Alcoráz,A Malata,El Molinón
+Burgos,Club,Apodo por el cual son conocidos sus aficionados,Hijos del Frío,Granotas,Racinguistas,Jabatos
+Burgos,Club,Nombre de la mascota del club,Morciyeti,Garra,Oso Cacho,Superpepino
+Burgos,Club,Año de fundación del club,1985,1986,1987,1988
+Burgos,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,3º,2º,5º
+Burgos,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,20,12,16,14
+Burgos,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,97º,90º,87º,80
+Burgos,Segunda División,¿Cuántas veces ha ascendido a primera división?,1,2,3,4
+Burgos,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,2,3,4
+Burgos,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,3,4
+Burgos,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Cuartos de Final,Semifinal,Final,Octavos de Final
+Burgos,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Cartagena,Club,Nombre del estadio en el que disputa sus partidos como local,Cartagonova,Nuevo Pepico Amat,Carlos Belmonte,Butarque
+Cartagena,Club,Apodo por el cual son conocidos sus aficionados,Efesé,Pepineros,Armeros,Carbayones
+Cartagena,Club,Nombre de la mascota del club,Suru,Dragonés,Superpepino,Datigol
+Cartagena,Club,Año de fundación del club,1995,1996,1997,1998
+Cartagena,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,5º,3º,2º,4º
+Cartagena,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,6,7,8,9
+Cartagena,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,72º,55º,66º,82º
+Cartagena,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,3
+Cartagena,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,3
+Cartagena,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Cartagena,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,3ª Ronda,Semifinal,Final,Octavos de Final
+Cartagena,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,3
+Eibar,Club,Nombre del estadio en el que disputa sus partidos como local,Ipurúa,Cartagonova,Martínez Valero,RCDE Stadium
+Eibar,Club,Apodo por el cual son conocidos sus aficionados,Armeros,Alfareros,Urdinak,Ilicitanos
+Eibar,Club,Nombre de la mascota del club,Armagin,Datigol,Morciyeti,Perico y Perica
+Eibar,Club,Año de fundación del club,1940,1941,1942,1943
+Eibar,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,2º,5º,7º
+Eibar,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,28,20,25,32
+Eibar,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,21º,20º,15º,16º
+Eibar,Segunda División,¿Cuántas veces ha ascendido a primera división?,1,2,3,5
+Eibar,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,2,3,5
+Eibar,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,3,5
+Eibar,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Cuartos de Final,Semifinal,Final,Octavos de Final
+Eibar,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,3
+Elche,Club,Nombre del estadio en el que disputa sus partidos como local,Martínez Valero,A Malata,La Romareda,Ipurúa
+Elche,Club,Apodo por el cual son conocidos sus aficionados,Ilicitanos,Granotas,Jabatos,Carbayones
+Elche,Club,Nombre de la mascota del club,Datigol,Diablillo Verde,Garra,Blau y Grana
+Elche,Club,Año de fundación del club,1922,1923,1924,1925
+Elche,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,2º,3º,5º
+Elche,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,39,30,49,40
+Elche,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,4º,2º,6º,8º
+Elche,Segunda División,¿Cuántas veces ha ascendido a primera división?,6,7,8,9
+Elche,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,2,4,5,6
+Elche,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,2,3,4
+Elche,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Elche,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,3,5
+Eldense,Club,Nombre del estadio en el que disputa sus partidos como local,Nuevo Pepico Amat,La Cerámica,Carlos Tartiere,Anduva
+Eldense,Club,Año de fundación del club,1921,1922,1923,1924
+Eldense,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,8º,9º,12º,13º
+Eldense,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,5,4,8,9
+Eldense,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,102º,120º,50º,26º
+Eldense,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,3
+Eldense,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,3
+Eldense,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Eldense,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Octvos de Final,Semifinal,Cuartos de Final,Final
+Eldense,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,3,1
+Espanyol,Club,Nombre del estadio en el que disputa sus partidos como local,RCDE Stadium,El Molinón,Anduva,Ipurúa
+Espanyol,Club,Apodo por el cual son conocidos sus aficionados,Periquitos,Ilicitanos,Oscense,Granotas
+Espanyol,Club,Nombre de la mascota del club,Perico y Perica,Garra,Pepe Zorrillo,Garra
+Espanyol,Club,Año de fundación del club,1900,1901,1902,1903
+Espanyol,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,4º,3º,2º
+Espanyol,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,5,4,3,9
+Espanyol,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,81º,15º,95º,76º
+Espanyol,Segunda División,¿Cuántas veces ha ascendido a primera división?,5,6,4,9
+Espanyol,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,2,3,4,5
+Espanyol,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,9,5,7,6
+Espanyol,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Espanyol,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,4,0,2,5
+Huesca,Club,Nombre del estadio en el que disputa sus partidos como local,El Alcoráz,El Sardinero,La Romareda,Anduva
+Huesca,Club,Apodo por el cual son conocidos sus aficionados,Oscense,Chicharreros,Maños,Pucelanos
+Huesca,Club,Nombre de la mascota del club,Dragonés,Groguet,Zarpa,Brujín
+Huesca,Club,Año de fundación del club,1960,1961,1962,1963
+Huesca,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,6º,7º,8º
+Huesca,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,11,10,9,8
+Huesca,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,44º,12º,50º,34º
+Huesca,Segunda División,¿Cuántas veces ha ascendido a primera división?,2,3,0,5
+Huesca,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,4,2,5
+Huesca,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,1,5
+Huesca,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,4ª Ronda,Semifinal,Cuartos de Final,Octavos de Final
+Huesca,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Leganés,Club,Nombre del estadio en el que disputa sus partidos como local,Butarque,La Cerámica,Ciutat de Valencia,Carlos Belmonte
+Leganés,Club,Apodo por el cual son conocidos sus aficionados,Pepineros,Jabatos,Submarino Amarillo,Carbayones
+Leganés,Club,Nombre de la mascota del club,Superpepino,Groguet,Jabato,Datigol
+Leganés,Club,Año de fundación del club,1928,1929,1930,1931
+Leganés,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,2º,4º,6º,1º
+Leganés,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,16,20,22,26
+Leganés,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,38º,35º,30º,25º
+Leganés,Segunda División,¿Cuántas veces ha ascendido a primera división?,1,2,3,4
+Leganés,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,3,4
+Leganés,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,3,4
+Leganés,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Leganés,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Levante,Club,Nombre del estadio en el que disputa sus partidos como local,Ciutat de Valencia,Cartagonova,La Romareda,El Plantío
+Levante,Club,Apodo por el cual son conocidos sus aficionados,Granotas,Armeros,Urdinak,Maños
+Levante,Club,Nombre de la mascota del club,Blau y Grana,Blau,Grana,Rat Penat
+Levante,Club,Año de fundación del club,1909,1910,1911,1912
+Levante,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,5º,7º,9º
+Levante,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,41,46,54,13
+Levante,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,11º,5º,4º,2º
+Levante,Segunda División,¿Cuántas veces ha ascendido a primera división?,5,6,2,3
+Levante,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,2,5,4,7
+Levante,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,3,2,4
+Levante,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Levante,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,1,2,3,4
+Mirandés,Club,Nombre del estadio en el que disputa sus partidos como local,Anduva,José Zorrilla,La Romareda,El Molinón
+Mirandés,Club,Apodo por el cual son conocidos sus aficionados,Jabatos,Andorranos,Hijos del Frío,Efesé
+Mirandés,Club,Nombre de la mascota del club,Jabato,Suru,Morciyeti,Dragonés
+Mirandés,Club,Año de fundación del club,1927,1928,1929,1930
+Mirandés,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,8º,6º,4º,2º
+Mirandés,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,9,8,7,6
+Mirandés,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,57º,50º,20º,34º
+Mirandés,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,3,4
+Mirandés,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,5
+Mirandés,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,4
+Mirandés,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Mirandés,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Real Oviedo,Club,Nombre del estadio en el que disputa sus partidos como local,Carlos Tartiere,El Molinón,Butarque,La Romareda
+Real Oviedo,Club,Apodo por el cual son conocidos sus aficionados,Carbayones,Pucelanos,Racinguistas,Diablos Verdes
+Real Oviedo,Club,Nombre de la mascota del club,Garra,Jabato,Zarpa,Groguet
+Real Oviedo,Club,Año de fundación del club,1926,1927,1928,1929
+Real Oviedo,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,2º,5º,7º
+Real Oviedo,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,40,45,50,55
+Real Oviedo,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,8º,15º,27º,32º
+Real Oviedo,Segunda División,¿Cuántas veces ha ascendido a primera división?,6,7,2,8
+Real Oviedo,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,5,4,3,2
+Real Oviedo,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,5
+Real Oviedo,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Real Oviedo,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Racing de Ferrol,Club,Nombre del estadio en el que disputa sus partidos como local,A Malata,Campo Municipal de Urritxe,Santo Domingo,Carlos Belmonte
+Racing de Ferrol,Club,Apodo por el cual son conocidos sus aficionados,Diablos Verdes,Periquitos,Pepineros,Carbayones
+Racing de Ferrol,Club,Nombre de la mascota del club,Diablillo Verde,Brujín,Suru,Superpepino
+Racing de Ferrol,Club,Año de fundación del club,1919,1920,1921,1922
+Racing de Ferrol,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,10º,15º,20º,5º
+Racing de Ferrol,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,34,40,12,6
+Racing de Ferrol,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,32º,15º,5º,45º
+Racing de Ferrol,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,2,4
+Racing de Ferrol,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,3,2
+Racing de Ferrol,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,2,3,4
+Racing de Ferrol,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Racing de Ferrol,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,7,5,2
+Real Racing de Santander,Club,Nombre del estadio en el que disputa sus partidos como local,El Sardinero,El Molinón,El Alcoráz,El Plantío
+Real Racing de Santander,Club,Apodo por el cual son conocidos sus aficionados,Racinguistas,Maños,Periquitos,Pucelanos
+Real Racing de Santander,Club,Nombre de la mascota del club,Oso Cacho,Brujín,Morciyeti,Dragonés
+Real Racing de Santander,Club,Año de fundación del club,1913,1914,1915,1916
+Real Racing de Santander,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,5º,8º,9º
+Real Racing de Santander,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,36,40,34,20
+Real Racing de Santander,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,23º,22º,20º,5º
+Real Racing de Santander,Segunda División,¿Cuántas veces ha ascendido a primera división?,8,10,5,6
+Real Racing de Santander,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,2,4,5,1
+Real Racing de Santander,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,4,5,1
+Real Racing de Santander,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Real Racing de Santander,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,2,3
+Real Sporting de Gijón,Club,Nombre del estadio en el que disputa sus partidos como local,El Molinón,Butarque,Ciutat de Valencia,RCDE Stadium
+Real Sporting de Gijón,Club,Apodo por el cual son conocidos sus aficionados,Sportinguistas,Pucelanos,Maños,Granotas
+Real Sporting de Gijón,Club,Nombre de la mascota del club,Brujín,Armagin,Morciyeti,Superpepino
+Real Sporting de Gijón,Club,Año de fundación del club,1905,1906,1907,1908
+Real Sporting de Gijón,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,2º,4º,6º
+Real Sporting de Gijón,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,50,40,30,20
+Real Sporting de Gijón,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,1º,2º,3º,5º
+Real Sporting de Gijón,Segunda División,¿Cuántas veces ha ascendido a primera división?,7,8,9,10
+Real Sporting de Gijón,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,5,7,5,6
+Real Sporting de Gijón,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,2,4,5,1
+Real Sporting de Gijón,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Real Sporting de Gijón,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,3,2
+Real Valladolid,Club,Nombre del estadio en el que disputa sus partidos como local,José Zorrilla,A Malata,Anduva,El Sardinero
+Real Valladolid,Club,Apodo por el cual son conocidos sus aficionados,Pucelanos,Pepineros,Granotas,Armeros
+Real Valladolid,Club,Nombre de la mascota del club,Pepe Zorrillo,Brujín,Morciyeti,Superpepino
+Real Valladolid,Club,Año de fundación del club,1928,1929,1930,1931
+Real Valladolid,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,4º,5º,9º
+Real Valladolid,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,36,40,16,20
+Real Valladolid,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,12º,20º,18º,10º
+Real Valladolid,Segunda División,¿Cuántas veces ha ascendido a primera división?,9,10,12,4
+Real Valladolid,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,3,7,5,3
+Real Valladolid,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,2,5,6,7
+Real Valladolid,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Real Valladolid,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,3
+Real Zaragoza,Club,Nombre del estadio en el que disputa sus partidos como local,La Romareda,El Molinón,La Rosaleda,José Zorrilla
+Real Zaragoza,Club,Apodo por el cual son conocidos sus aficionados,Maños,Pepineros,Granotas,Racinguistas
+Real Zaragoza,Club,Nombre de la mascota del club,Zarpa,Dragonés,Datigol,Blau y Grana
+Real Zaragoza,Club,Año de fundación del club,1932,1933,1934,1935
+Real Zaragoza,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,3º,4º,21º
+Real Zaragoza,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,26,24,32,52
+Real Zaragoza,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,26º,20º,15º,82º
+Real Zaragoza,Segunda División,¿Cuántas veces ha ascendido a primera división?,8,7,6,2
+Real Zaragoza,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,2,4,3
+Real Zaragoza,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,11,8,5,3
+Real Zaragoza,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Real Zaragoza,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,6,5,2,3
+Tenerife,Club,Nombre del estadio en el que disputa sus partidos como local,Heliodoro Rodríguez López,El Alcoráz,Carlos Tartiere,Martínez Valero
+Tenerife,Club,Apodo por el cual son conocidos sus aficionados,Chicharreros,Pucelanos,Maños,Carbayones
+Tenerife,Club,Nombre de la mascota del club,Elio-doro,Suru,Superpepino,Morciyeti
+Tenerife,Club,Año de fundación del club,1922,1923,1924,1925
+Tenerife,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,1º,5º,7º,3º
+Tenerife,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,46,40,35,12
+Tenerife,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,2º,4º,6º,8º
+Tenerife,Segunda División,¿Cuántas veces ha ascendido a primera división?,4,2,6,8
+Tenerife,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,1,3,4,5
+Tenerife,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,3,4
+Tenerife,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Tenerife,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4
+Villarreal B,Club,Nombre del estadio en el que disputa sus partidos como local,La cerámica,Cartagonova,Santo Domingo,Ipurúa
+Villarreal B,Club,Apodo por el cual son conocidos sus aficionados,Submarino Amarillo,Granotas,Jabatos,Maños
+Villarreal B,Club,Nombre de la mascota del club,Groguet,Dragonés,Superpepino,Blau y Grana
+Villarreal B,Club,Año de fundación del club,1999,2000,2001,2002
+Villarreal B,Segunda División,¿Cuál es la posición más alta que ha conseguido en segunda división?,7º,10º,16º,22º
+Villarreal B,Segunda División,¿Cuántas temporadas ha disputado en segunda división?,4,6,8,10
+Villarreal B,Segunda División,¿Qué posición ocupa en la clasificación histórica de segunda división?,85º,80º,75º,95º
+Villarreal B,Segunda División,¿Cuántas veces ha ascendido a primera división?,0,1,4,5
+Villarreal B,Segunda División,¿Cuántos títulos de segunda división ha conseguido?,0,1,2,5
+Villarreal B,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,4,3
+Villarreal B,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,4

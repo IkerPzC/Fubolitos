@@ -1,0 +1,310 @@
+Deportivo Alavés,Club,Nombre del estadio en el que disputa sus partidos como local,Mendizorroza,Coliseum,Montilivi,Nuevo Los Cármenes
+Deportivo Alavés,Club,Apodo por el cual son conocidos sus aficionados,Babazorros,Leones,Colchoneros,Culés
+Deportivo Alavés,Club,Nombre de la mascota del club,Babazorro,Baba,Zorro,Demonio
+Deportivo Alavés,Club,Año de fundación del club,1921,1922,1923,1924
+Deportivo Alavés,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,6º,8º,4º,2º
+Deportivo Alavés,Primera División,¿Cuántas temporadas ha disputado en primera división?,17,14,12,21
+Deportivo Alavés,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,27º,20º,32º,15º
+Deportivo Alavés,Primera División,¿En qué temporada debutó en primera división?,1930 - 1931,1945 - 1946,2000 - 2001,1935 - 1936
+Deportivo Alavés,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,2,0,4
+Deportivo Alavés,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Deportivo Alavés,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,2,3
+Deportivo Alavés,Europa League,¿Cuántas temporadas ha participado en Europa League?,2,1,3,0
+Deportivo Alavés,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Deportivo Alavés,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,1,2,3
+Deportivo Alavés,Europa League,¿Qué resultado se dio en el partido que enfrentó al Liverpool y al Alavés el 16 de mayo de 2001?,5-4,3-0,2-1,6-0
+Deportivo Alavés,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,1,2,3
+Almería,Club,Nombre del estadio en el que disputa sus partidos como local,Power Horse Stadium,Son Moix,Reale Arena,Ramón Sanchez Pizjuán
+Almería,Club,Apodo por el cual son conocidos sus aficionados,Indálicos,Leones,Colchoneros,Culés
+Almería,Club,Año de fundación del club,1989,1990,1991,1992
+Almería,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,8º,10º,12º,6º
+Almería,Primera División,¿Cuántas temporadas ha disputado en primera división?,7,14,2,5
+Almería,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,38º,25º,36º,45º
+Almería,Primera División,¿En qué temporada debutó en primera división?,2007 - 2008,1950 - 1951,2000 - 2001,2017 - 2018
+Almería,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,1,2,3
+Almería,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Cuartos de Final,Octavos de Final,Final
+Almería,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,1,5,2
+Almería,Europa League,¿Cuántas temporadas ha participado en Europa League?,0,1,3,2
+Almería,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,2,4,1
+Athletic Club,Club,Nombre del estadio en el que disputa sus partidos como local,San Mamés,Ramón Sanchez Pizjuán,Mestalla,La cerámica
+Athletic Club,Club,Apodo por el cual son conocidos sus aficionados,Leones,Olívicos,Azulones,Tozudos
+Athletic Club,Club,Año de fundación del club,1898,1899,1900,1901
+Athletic Club,Primera División,¿Cuántas temporadas ha disputado en primera división?,92,85,76,99
+Athletic Club,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,5º,4º,3º,2º
+Athletic Club,Primera División,¿En qué temporada debutó en primera división?,1928 - 1929,1925 - 1926,1927 - 1928,1931 - 1932
+Athletic Club,Primera División,¿Cuántos títulos de primera división ha conseguido?,8,6,4,10
+Athletic Club,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,39,45,22,13
+Athletic Club,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Cuartos de Final,3ª Ronda,Semifinal
+Athletic Club,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,23,18,13,6
+Athletic Club,Europa League,¿Cuántas temporadas ha participado en Europa League?,18,25,31,12
+Athletic Club,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Cuartos de Final,3ª Ronda,Semifinal
+Athletic Club,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,1,2,3
+Athletic Club,Champions League,¿Cuántas temporadas ha participado en Champions League?,5,4,3,6
+Athletic Club,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Cuartos de Final,Octavos de Final,Semifinal,Final
+Athletic Club,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,1,2,3
+Atlético de Madrid,Club,Nombre del estadio en el que disputa sus partidos como local,Cívitas Metropolitano,Camp Nou,Nuevo Mirandilla,Abanca Balaídos
+Atlético de Madrid,Club,Apodo por el cual son conocidos sus aficionados,Colchoneros,Olívicos,Azulones,Tozudos
+Atlético de Madrid,Club,Nombre de la mascota del club,Indi,Hitler,Aupi,Messi
+Atlético de Madrid,Club,Año de fundación del club,1903,1904,1905,1906
+Atlético de Madrid,Primera División,¿Cuántas temporadas ha disputado en primera división?,86,84,92,79
+Atlético de Madrid,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,3º,4º,5º,2º
+Atlético de Madrid,Primera División,¿En qué temporada debutó en primera división?,1928 - 1929,1925 - 1926,1927 - 1928,1931 - 1932
+Atlético de Madrid,Primera División,¿Cuántos títulos de primera división ha conseguido?,11,15,25,13
+Atlético de Madrid,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,19,25,19,7
+Atlético de Madrid,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Semifinal,Cuartos de Final,Octavos de Final
+Atlético de Madrid,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,10,15,20,25
+Atlético de Madrid,Europa League,¿Cuántas temporadas ha participado en Europa League?,20,19,17,13
+Atlético de Madrid,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Cuartos de Final,3ª Ronda,Semifinal
+Atlético de Madrid,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,3,4,5,6
+Atlético de Madrid,Champions League,¿Cuántas temporadas ha participado en Champions League?,17,19,21,25
+Atlético de Madrid,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Final,Cuartos de Final,Octavos de Final,Semifinal
+Atlético de Madrid,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,1,2,4
+Barcelona,Club,Nombre del estadio en el que disputa sus partidos como local,Camp Nou,Santiago Bernabéu,Montilivi,Nuevo Los Cármenes
+Barcelona,Club,Apodo por el cual son conocidos sus aficionados,Culés,Merengues,Colchoneros,Indálicos
+Barcelona,Club,Año de fundación del club,1899,1900,1901,1902
+Barcelona,Primera División,¿Cuántas temporadas ha disputado en primera división?,92,94,98,99
+Barcelona,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,2º,3º,4º,1º
+Barcelona,Primera División,¿En qué temporada debutó en primera división?,1928 - 1929,1925 - 1926,1927 - 1928,1931 - 1932
+Barcelona,Primera División,¿Cuántos títulos de primera división ha conseguido?,27,36,45,22
+Barcelona,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,42,45,37,50
+Barcelona,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Cuartos de Final,Octavos de Final,Semifinal
+Barcelona,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,31,32,34,39
+Barcelona,Europa League,¿Cuántas temporadas ha participado en Europa League?,13,15,14,19
+Barcelona,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Cuartos de Final,3ª Ronda,Semifinal
+Barcelona,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,1,4,6
+Barcelona,Champions League,¿Cuántas temporadas ha participado en Champions League?,33,30,21,29
+Barcelona,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Final,Cuartos de Final,3ª Ronda,Semifinal
+Barcelona,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,5,6,7,9
+Cádiz,Club,Nombre del estadio en el que disputa sus partidos como local,Nuevo Mirandilla,Mendizorroza,Power Horse Stadium,San Mamés
+Cádiz,Club,Apodo por el cual son conocidos sus aficionados,Submarino amarillo,Submarino verde,Submarino gris,Submarino azul
+Cádiz,Club,Año de fundación del club,1910,1911,1912,1913
+Cádiz,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,12º,15º,25º,7º
+Cádiz,Primera División,¿Cuántas temporadas ha disputado en primera división?,15,19,17,16
+Cádiz,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,31º,25º,27º,39º
+Cádiz,Primera División,¿En qué temporada debutó en primera división?,1977 - 1978,1999 - 2000,1985 - 1986,1975 - 1976
+Cádiz,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,5,7,6
+Cádiz,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Cuartos de Final,3ª Ronda,Final
+Cádiz,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,3,2,4
+Cádiz,Europa League,¿Cuántas temporadas ha participado en Europa League?,0,1,2,4
+Cádiz,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,3,2,4
+Celta,Club,Nombre del estadio en el que disputa sus partidos como local,Abanca Balaídos,Estadio de Gran Canaria,El sadar,Campo de Fútbol de Vallecas
+Celta,Club,Apodo por el cual son conocidos sus aficionados,Olívicos,Franjirrojos,Heliopolitanos,Merengues
+Celta,Club,Año de fundación del club,1923,1924,1925,1926
+Celta,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,4º,3º,7º,9º
+Celta,Primera División,¿Cuántas temporadas ha disputado en primera división?,57,59,61,67
+Celta,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,11º,15º,10º,8º
+Celta,Primera División,¿En qué temporada debutó en primera división?,1939 - 1940,1930 -1931,1940 - 1941,1949 - 1950
+Celta,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,4,6,8,12
+Celta,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Cuartos de Final,3ª Ronda,Octavos de Final
+Celta,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,1
+Celta,Europa League,¿Cuántas temporadas ha participado en Europa League?,8,6,5,4
+Celta,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Semifinal,Cuartos de Final,3ª Ronda,Final
+Celta,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,2,4,1
+Celta,Champions League,¿Cuántas temporadas ha participado en Champions League?,1,2,5,3
+Celta,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Octavos de Final,Cuartos de Final,3ª Ronda,Final
+Celta,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,2,1,3
+Getafe,Club,Nombre del estadio en el que disputa sus partidos como local,Coliseum,Mendizorroza,Power Horse Stadium,San Mamés
+Getafe,Club,Apodo por el cual son conocidos sus aficionados,Azulones,Olívicos,Pío-Pío,Rojillos
+Getafe,Club,Año de fundación del club,1983,1984,1985,1986
+Getafe,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,5º,4º,2º,6º
+Getafe,Primera División,¿Cuántas temporadas ha disputado en primera división?,18,17,19,21
+Getafe,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,21º,26º,13º,5º
+Getafe,Primera División,¿En qué temporada debutó en primera división?,2004 - 2005,2000 - 2001,2010 - 2011,2022 - 2023
+Getafe,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,2,4,5,6
+Getafe,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Cuartos de Final,3ª Ronda,Octavos de Final
+Getafe,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,3,6,1
+Getafe,Europa League,¿Cuántas temporadas ha participado en Europa League?,3,2,4,4
+Getafe,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Octavos de Final,Cuartos de Final,3ª Ronda,Final
+Getafe,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,6,3,1
+Getafe,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,1,4,5
+Girona,Club,Nombre del estadio en el que disputa sus partidos como local,Montilivi,Cívitas Metropolitano,Camp Nou,Nuevo Mirandilla
+Girona,Club,Apodo por el cual son conocidos sus aficionados,Tozudos,Babazorros,Indálicos,Leones
+Girona,Club,Nombre de la mascota del club,La Sisa,El Siso,El Pipa,Gonzalo
+Girona,Club,Año de fundación del club,1930,1931,1932,1933
+Girona,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,10º,8º,2º,3º
+Girona,Primera División,¿Cuántas temporadas ha disputado en primera división?,3,4,6,7
+Girona,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,47º,35º,19º,56º
+Girona,Primera División,¿En qué temporada debutó en primera división?,2017 - 2018,2000 - 2001,2005 - 2006,2009 - 2010
+Girona,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,4,5
+Girona,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Cuartos de Final,Octavos de Final,Semifinal,Final
+Girona,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,9,5
+Girona,Europa League,¿Cuántas temporadas ha participado en Europa League?,0,1,3,8
+Girona,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,2,7,6
+Granada,Club,Nombre del estadio en el que disputa sus partidos como local,Nuevo Los Cármenes,Benito Villamarín,El sadar,Montilivi
+Granada,Club,Apodo por el cual son conocidos sus aficionados,Nazaríes,Babazorros,Indálicos,Leones
+Granada,Club,Año de fundación del club,1931,1932,1933,1934
+Granada,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,6º,7º,4º,3º
+Granada,Primera División,¿Cuántas temporadas ha disputado en primera división?,26,27,29,31
+Granada,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,22º,14º,16º,18º
+Granada,Primera División,¿En qué temporada debutó en primera división?,1941 - 1942,1954 - 1955,1923 - 1924,1966 - 1967
+Granada,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,2,3,4
+Granada,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Granada,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,6
+Granada,Europa League,¿Cuántas temporadas ha participado en Europa League?,1,2,4,6
+Granada,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Cuartos de Final,Octavos de Final,Semifinal,Final
+Granada,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,1,2,3
+Granada,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,1,2,3
+Las Palmas,Club,Nombre del estadio en el que disputa sus partidos como local,Estadio de Gran Canaria,Nuevo Mirandilla,Abanca Balaídos,Coliseum
+Las Palmas,Club,Apodo por el cual son conocidos sus aficionados,Pío-Pío,Azulones,Babazorros,Bermellones
+Las Palmas,Club,Nombre de la mascota del club,Pío-Pío,Cuack-Cuack,Guau-Guau,Miau-Miau
+Las Palmas,Club,Año de fundación del club,1949,1950,1951,1952
+Las Palmas,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,2º,1º,4º,3º
+Las Palmas,Primera División,¿Cuántas temporadas ha disputado en primera división?,34,44,46,21
+Las Palmas,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,20º,25º,30º,15º
+Las Palmas,Primera División,¿En qué temporada debutó en primera división?,1951 - 1952,1966 - 1967,1982 - 1983,1978 - 1979
+Las Palmas,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,1,3,5,7
+Las Palmas,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Las Palmas,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,2,4,6
+Las Palmas,Europa League,¿Cuántas temporadas ha participado en Europa League?,2,4,5,6
+Las Palmas,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Octavos de Final,Final,Semifinal,Cuartos de Final
+Las Palmas,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,1,2,4
+Las Palmas,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,4,5,6
+Osasuna,Club,Nombre del estadio en el que disputa sus partidos como local,El sadar,Nuevo Mirandilla,Abanca Balaídos,Coliseum
+Osasuna,Club,Apodo por el cual son conocidos sus aficionados,Rojillos,Culés,Palanganas,Chés
+Osasuna,Club,Nombre de la mascota del club,Rojillo y Rojilla,Azulillo y Azulilla,Rojo,Azul
+Osasuna,Club,Año de fundación del club,1920,1921,1922,1923
+Osasuna,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,4º,3º,2º,5º
+Osasuna,Primera División,¿Cuántas temporadas ha disputado en primera división?,41,32,34,36
+Osasuna,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,14º,10º,6º,19º
+Osasuna,Primera División,¿En qué temporada debutó en primera división?,1935 - 1936,1934 - 1935,1956 - 1956,1967 - 1968
+Osasuna,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,2,4,5,14
+Osasuna,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Osasuna,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,5,14
+Osasuna,Europa League,¿Cuántas temporadas ha participado en Europa League?,4,17,13,5
+Osasuna,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Semifinal,Octavos de Final,Final,Cuartos de Final
+Osasuna,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,2,6,1
+Osasuna,Champions League,¿Cuántas temporadas ha participado en Champions League?,1,4,6,3
+Osasuna,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,3ª Ronda,Fase de Grupos,Cuartos de Final,Semifinal
+Osasuna,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,1,2,4
+Rayo Vallecano,Club,Nombre del estadio en el que disputa sus partidos como local,Campo de Fútbol de Vallecas,Benito Villamarín,Santiago Bernabéu,Son Moix
+Rayo Vallecano,Club,Apodo por el cual son conocidos sus aficionados,Franjirrojos,Txuriudin,Palanganas,Chés
+Rayo Vallecano,Club,Nombre de la mascota del club,Pica Pica,Rasca Rasca,Rayo Rayo,Franja Franja
+Rayo Vallecano,Club,Año de fundación del club,1924,1925,1926,1927
+Rayo Vallecano,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,8º,6º,5º,2º
+Rayo Vallecano,Primera División,¿Cuántas temporadas ha disputado en primera división?,20,14,16,18
+Rayo Vallecano,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,24º,26º,18º,14º
+Rayo Vallecano,Primera División,¿En qué temporada debutó en primera división?,1977 - 1978,1982 - 1983,1955 - 1956,1999 - 2000
+Rayo Vallecano,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,2,3,4
+Rayo Vallecano,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Final,Cuartos de Final,Octavos de Final
+Rayo Vallecano,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,6,5,4
+Rayo Vallecano,Europa League,¿Cuántas temporadas ha participado en Europa League?,1,6,4,5
+Rayo Vallecano,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Cuartos de Final,Dieciseisavos de Final,Octavos de Final,Semifinal
+Rayo Vallecano,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,7,8,2
+Rayo Vallecano,Champions League,¿Cuántas temporadas ha participado en Champions League?,0,2,6,7
+Real Betis,Club,Nombre del estadio en el que disputa sus partidos como local,Benito Villamarín,Mendizorroza,Power Horse Stadium,Ramón Sanchez Pizjuán
+Real Betis,Club,Apodo por el cual son conocidos sus aficionados,Heliopolitanos,Olívicos,Indálicos,Leones
+Real Betis,Club,Nombre de la mascota del club,Palmerín,Babazorro,Indi,Casto
+Real Betis,Club,Año de fundación del club,1907,1908,1909,1910
+Real Betis,Primera División,¿Cuántas temporadas ha disputado en primera división?,57,50,34,46
+Real Betis,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,9º,2º,7º,13º
+Real Betis,Primera División,¿En qué temporada debutó en primera división?,1932 - 1933,1944 - 1945,1933 - 1934,1935 - 1936
+Real Betis,Primera División,¿Cuántos títulos de primera división ha conseguido?,1,4,2,8
+Real Betis,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,5,4,6,8
+Real Betis,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Betis,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,3,3,5,6
+Real Betis,Europa League,¿Cuántas temporadas ha participado en Europa League?,9,4,8,6
+Real Betis,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Octavos de Final,Final,Semifinal,Cuartos de Final
+Real Betis,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,2,4,6
+Real Betis,Champions League,¿Cuántas temporadas ha participado en Champions League?,1,7,5,6
+Real Betis,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Fase de Grupos,Fase Previa,Semifinal,Final
+Real Betis,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,4,2,3
+Real Madrid,Club,Nombre del estadio en el que disputa sus partidos como local,Santiago Bernabéu,Son Moix,Reale Arena,Ramón Sanchez Pizjuán
+Real Madrid,Club,Apodo por el cual son conocidos sus aficionados,Merengues,Colchoneros,Culés,Leones
+Real Madrid,Club,Año de fundación del club,1902,1903,1904,1905
+Real Madrid,Primera División,¿Cuántas temporadas ha disputado en primera división?,92,90,99,85
+Real Madrid,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,1º,2º,3º,4º
+Real Madrid,Primera División,¿En qué temporada debutó en primera división?,1928 - 1929,1925 - 1926,1927 - 1928,1931 - 1932
+Real Madrid,Primera División,¿Cuántos títulos de primera división ha conseguido?,35,40,45,50
+Real Madrid,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,40,45,50,55
+Real Madrid,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Madrid,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,20,25,24,32
+Real Madrid,Europa League,¿Cuántas temporadas ha participado en Europa League?,9,11,21,2
+Real Madrid,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Madrid,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,2,6,4,8
+Real Madrid,Champions League,¿Cuántas temporadas ha participado en Champions League?,53,76,20,46
+Real Madrid,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Madrid,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,14,15,10,6
+Real Mallorca,Club,Nombre del estadio en el que disputa sus partidos como local,Son Moix,El sadar,Campo de Fútbol de Vallecas,Benito Villamarín
+Real Mallorca,Club,Apodo por el cual son conocidos sus aficionados,Bermellones,Tozudos,Nazaríes,Pío-Pío
+Real Mallorca,Club,Nombre de la mascota del club,Dimonió,Demonio,Poseidón,Palmerín
+Real Mallorca,Club,Año de fundación del club,1916,1917,1918,1919
+Real Mallorca,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,3º,5º,7º,9º
+Real Mallorca,Primera División,¿Cuántas temporadas ha disputado en primera división?,30,45,15,25
+Real Mallorca,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,18º,16º,14º,8º
+Real Mallorca,Primera División,¿En qué temporada debutó en primera división?,1960 - 1961,1965 - 1966,1967 - 1968,1970 - 1971
+Real Mallorca,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,3,6,9,12
+Real Mallorca,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Mallorca,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,1,3,5,7
+Real Mallorca,Europa League,¿Cuántas temporadas ha participado en Europa League?,3,6,2,12
+Real Mallorca,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Cuartos de Final,Octavos de Final,Semifinal,Final
+Real Mallorca,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,2,3,6
+Real Mallorca,Champions League,¿Cuántas temporadas ha participado en Champions League?,2,4,5,6
+Real Mallorca,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Fase de Grupos,Fase Previa,Semifinal,Final
+Real Mallorca,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,2,1,4
+Real Sociedad,Club,Nombre del estadio en el que disputa sus partidos como local,Reale Arena,Cívitas Metropolitano,Camp Nou,Nuevo Mirandilla
+Real Sociedad,Club,Apodo por el cual son conocidos sus aficionados,Txuriudin,Heliopolitanos,Merengues,Bermellones
+Real Sociedad,Club,Nombre de la mascota del club,Txurdin,Txuri Urdin,Urdin Txuri,Txuri
+Real Sociedad,Club,Año de fundación del club,1909,1910,1911,1912
+Real Sociedad,Primera División,¿Cuántas temporadas ha disputado en primera división?,76,74,88,90
+Real Sociedad,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,8º,10º,2º,6º
+Real Sociedad,Primera División,¿En qué temporada debutó en primera división?,1928 - 1929,1925 - 1926,1927 - 1928,1931 - 1932
+Real Sociedad,Primera División,¿Cuántos títulos de primera división ha conseguido?,2,1,3,5
+Real Sociedad,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,7,4,5,6
+Real Sociedad,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Real Sociedad,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,3,4,5,6
+Real Sociedad,Europa League,¿Cuántas temporadas ha participado en Europa League?,12,18,15,13
+Real Sociedad,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Octavos de Final,Cuartos de Final,Semifinal,Final
+Real Sociedad,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,0,2,4,3
+Real Sociedad,Champions League,¿Cuántas temporadas ha participado en Champions League?,4,8,6,5
+Real Sociedad,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Octavos de Final,Cuartos de Final,Semifinal,Final
+Real Sociedad,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,6,5,4
+Sevilla,Club,Nombre del estadio en el que disputa sus partidos como local,Ramón Sanchez Pizjuán,Mendizorroza,Montilivi,Nuevo Los Cármenes
+Sevilla,Club,Apodo por el cual son conocidos sus aficionados,Palanganas,Nazaríes,Pío-Pío,Rojillos
+Sevilla,Club,Año de fundación del club,1890,1891,1892,1893
+Sevilla,Primera División,¿Cuántas temporadas ha disputado en primera división?,79,85,88,92
+Sevilla,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,6º,8º,9º,7º
+Sevilla,Primera División,¿En qué temporada debutó en primera división?,1934 - 1935,1932 - 1933,1944 - 1945,1975 - 1976
+Sevilla,Primera División,¿Cuántos títulos de primera división ha conseguido?,1,3,5,7
+Sevilla,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,9,2,5,6
+Sevilla,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Sevilla,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,5,2,6,7
+Sevilla,Europa League,¿Cuántas temporadas ha participado en Europa League?,16,14,25,13
+Sevilla,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Sevilla,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,7,1,5,12
+Sevilla,Champions League,¿Cuántas temporadas ha participado en Champions League?,9,1,2,3
+Sevilla,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Cuartos de Final,Octavos de Final,Final,Fase de Grupos
+Sevilla,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,1,4,5
+Valencia,Club,Nombre del estadio en el que disputa sus partidos como local,Mestalla,Nuevo Los Cármenes,Mendizorroza,Montilivi
+Valencia,Club,Apodo por el cual son conocidos sus aficionados,Chés,Babazorros,Indálicos,Heliopolitanos
+Valencia,Club,Nombre de la mascota del club,Rat Penat,Koby,Peter,Murci
+Valencia,Club,Año de fundación del club,1919,1920,1921,1922
+Valencia,Primera División,¿Cuántas temporadas ha disputado en primera división?,88,45,72,94
+Valencia,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,4º,2º,6º,8º
+Valencia,Primera División,¿En qué temporada debutó en primera división?,1931 - 1932,1922 - 1923,1942 - 1943,1956 - 1657
+Valencia,Primera División,¿Cuántos títulos de primera división ha conseguido?,6,8,10,5
+Valencia,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,18,25,13,19
+Valencia,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Valencia,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,8,4,5,6
+Valencia,Europa League,¿Cuántas temporadas ha participado en Europa League?,18,17,16,12
+Valencia,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Valencia,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,1,3,4,8
+Valencia,Champions League,¿Cuántas temporadas ha participado en Champions League?,13,19,25,2
+Valencia,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Valencia,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,5,1,3
+Villarreal,Club,Nombre del estadio en el que disputa sus partidos como local,La cerámica,Mendizorroza,Nuevo Los Cármenes,Montilivi
+Villarreal,Club,Apodo por el cual son conocidos sus aficionados,Submarino amarilo,Submarino verde,Submarino gris,Submarino azul
+Villarreal,Club,Nombre de la mascota del club,Groguet,Olívicos,Azulones,Tozudos
+Villarreal,Club,Año de fundación del club,1923,1924,1925,1926
+Villarreal,Primera División,¿Cuál es la posición más alta que ha conseguido en primera división?,2º,4º,6º,8º
+Villarreal,Primera División,¿Cuántas temporadas ha disputado en primera división?,23,24,52,13
+Villarreal,Primera División,¿Qué posición ocupa en la clasificación histórica de primera división?,17º,25º,13º,46º
+Villarreal,Primera División,¿En qué temporada debutó en primera división?,1998 - 1999,2000 - 2001,2003 - 2004,2006 -2007
+Villarreal,Copa del Rey,¿Cuántas finales de copa del rey ha disputado?,0,5,6,2
+Villarreal,Copa del Rey,¿Hasta qué ronda ha conseguido llegar en copa del rey?,Semifinal,Octavos de Final,Final,Cuartos de Final
+Villarreal,Copa del Rey,¿Cuántas veces se ha proclamado campeón de la copa del rey?,0,4,8,3
+Villarreal,Europa League,¿Cuántas temporadas ha participado en Europa League?,11,19,17,13
+Villarreal,Europa League,¿Hasta qué ronda ha conseguido llegar en Europa League?,Final,Octavos de Final,Semifinal,Cuartos de Final
+Villarreal,Europa League,¿Cuántas veces se ha proclamado campeón de la Europa League?,1,6,4,8
+Villarreal,Champions League,¿Cuántas temporadas ha participado en Champions League?,5,2,7,3
+Villarreal,Champions League,¿Hasta qué ronda ha conseguido llegar en Champions League?,Semifinal,Octavos de Final,Final,Fase de Grupos
+Villarreal,Champions League,¿Cuántas veces se ha proclamado campeón de la Champions League?,0,8,9,7

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores fondo -->
+    <color name="colorPrimeraDivision">#f4dcdc</color>
+    <color name="colorSegundaDivision">#dcf4ec</color>
+    <!-- Colores por categoría -->
+    <color name="colorClub">#c4ccb4</color>
+    <color name="colorPrimera">#fcbcac</color>
+    <color name="colorSegunda">#bce4e4</color>
+    <color name="colorCopa">#ecdcbc</color>
+    <color name="colorEuropaLeague">#fcd4b4</color>
+    <color name="colorChampionsLeague">#b4b4c4</color>
+    <!-- Color borde por categoría -->
+    <color name="colorClubBorde">#1A4B00</color>
+    <color name="colorPrimeraDivisionBorde">#F81B11</color>
+    <color name="colorSegundaDivisionBorde">#08AEAF</color>
+    <color name="colorFondoIcono">#F5F5DC</color>
+    <color name="colorCopaBorde">#D19D23</color>
+    <color name="colorEuropaLeagueBorde">#FF5900</color>
+    <color name="colorChampionsLeagueBorde">#00074b</color>
+    <!-- Colores comunes -->
+    <color name="black">#FF000000</color>
+    <color name="gris">#ACA8A8</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rojo">#FF0000</color>
+    <color name="verde">#214C22</color>
+    <!-- Colores personalizados de cada equipo -->
+    <!-- Raya vertical -->
+    <color name="alavesPrincipal">#0f4ca0</color>
+    <color name="almeriaPrincipal">#ed1b24</color>
+    <color name="almeriaTercero">#0581db</color>
+    <color name="athleticPrincipal">#e10613</color>
+    <color name="atleticoPrincipal">#e02c15</color>
+    <color name="atleticoTercero">#001a7a</color>
+    <color name="barcelonaPrincipal">#004999</color>
+    <color name="barcelonaSecundario">#a30344</color>
+    <color name="barcelonaTercero">#ebbc00</color>
+    <color name="gironaPrincipal">#d02030</color>
+    <color name="gironaTercero">#fdb71e</color>
+    <color name="betisPrincipal">#008835</color>
+    <color name="betisTercero">#cf8900</color>
+    <color name="realsociedadPrincipal">#0067b0</color>
+    <color name="realsociedadTercero">#e3b630</color>
+    <color name="andorraPrincipal">#000d88</color>
+    <color name="andorraSecundario">#ff0b10</color>
+    <color name="andorraTercero">#ffb500</color>
+    <color name="cartagenaTercero">#b12938</color>
+    <color name="eibarPrincipal">#004083</color>
+    <color name="eibarSecundario">#e62527</color>
+    <color name="eldensePrincipal">#481995</color>
+    <color name="eldenseSecundario">#ff2413</color>
+    <color name="eldenseTercero">#ffa200</color>
+    <color name="espanyolPrincipal">#008bc9</color>
+    <color name="espanyolTercero">#ff0317</color>
+    <color name="huescaPrincipal">#14169a</color>
+    <color name="huescaSecundario">#af1a2f</color>
+    <color name="leganesPrincipal">#001972</color>
+    <color name="leganesTercero">#e19900</color>
+    <color name="levantePrincipal">#0065f5</color>
+    <color name="levanteSecundario">#d7005c</color>
+    <color name="levanteTercero">#ffc100</color>
+    <color name="sportingPrincipal">#e1001a</color>
+    <color name="sportingTercero">#e1b800</color>
+    <color name="valladolidPrincipal">#82248e</color>
+    <color name="valladolidTercero">#ff0e1e</color>
+    <!-- Liso -->
+    <color name="cadizPrincipal">#f8e617</color>
+    <color name="cadizSecundario">#0f4a9a</color>
+    <color name="cadizTercero">#0f4a9a</color>
+    <color name="celtaPrincipal">#8BB9E5</color>
+    <color name="celtaSecundario">#ac0f09</color>
+    <color name="celtaTercero">#ac0f09</color>
+    <color name="getafePrincipal">#1b4782</color>
+    <color name="getafeSecundario">#d62a26</color>
+    <color name="getafeTercero">#d62a26</color>
+    <color name="laspalmasPrincipal">#ffe300</color>
+    <color name="laspalmasSecundario">#004a9d</color>
+    <color name="laspalmasTercero">#004a9d</color>
+    <color name="osasunaPrincipal">#d91a20</color>
+    <color name="osasunaSecundario">#09346e</color>
+    <color name="osasunaTercero">#09346e</color>
+    <color name="madridSecundario">#00529f</color>
+    <color name="madridTercero">#00529f</color>
+    <color name="mallorcaPrincipal">#ec1b23</color>
+    <color name="mallorcaSecundario">#fff704</color>
+    <color name="mallorcaTercero">#fff704</color>
+    <color name="sevillaSecundario">#ff0417</color>
+    <color name="sevillaTercero">#ff0417</color>
+    <color name="valenciaSecundario">#d9362c</color>
+    <color name="valenciaTercero">#d9362c</color>
+    <color name="villarrealPrincipal">#f3e153</color>
+    <color name="villarrealSecundario">#0e3e6b</color>
+    <color name="villarrealTercero">#0e3e6b</color>
+    <color name="albaceteSecundario">#ab1b24</color>
+    <color name="albaceteTercero">#ab1b24</color>
+    <color name="alcorconPrincipal">#ffcc00</color>
+    <color name="alcorconSecundario">#1d2c70</color>
+    <color name="alcorconTercero">#1d2c70</color>
+    <color name="amorebietaPrincipal">#00439a</color>
+    <color name="amorebietaSecundario">#ff2825</color>
+    <color name="amorebietaTercero">#ff2825</color>
+    <color name="mirandesPrincipal">#cf433d</color>
+    <color name="mirandesSecundario">#231f20</color>
+    <color name="mirandesTercero">#231f20</color>
+    <color name="oviedoPrincipal">#094ca1</color>
+    <color name="oviedoSecundario">#ffd200</color>
+    <color name="oviedoTercero">#ffd200</color>
+    <color name="ferrolPrincipal">#0c6b4c</color>
+    <color name="ferrolSecundario">#cf142a</color>
+    <color name="ferrolTercero">#cf142a</color>
+    <color name="racingSecundario">#2c9a29</color>
+    <color name="racingTercero">#2c9a29</color>
+    <color name="zaragozaSecundario">#ff0010</color>
+    <color name="zaragozaTercero">#ff0010</color>
+    <color name="tenerifePrincipal">#16369d</color>
+    <!-- Raya Horizontal -->
+    <color name="granadaPrincipal">#e2211b</color>
+    <color name="granadaTercero">#1b4782</color>
+    <!-- Franja Diagonal -->
+    <color name="rayoSecundario">#ff342b</color>
+    <color name="rayoTercero">#ff342b</color>
+    <!-- Franja Horizontal -->
+    <color name="elcheSecundario">#006d36</color>
+    <color name="elcheTercero">#006d36</color>
+</resources>

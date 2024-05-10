@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Liso -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="25dp" />
+            <solid android:color="@color/osasunaPrincipal" />
+        </shape>
+    </item>
+
+    <!-- Bordes redondeados -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" />
+            <stroke
+                android:width="5dp"
+                android:color="@color/osasunaTercero" />
+        </shape>
+    </item>
+</layer-list>

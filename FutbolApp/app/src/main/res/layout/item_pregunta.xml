@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cartaPregunta"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:background="@drawable/pregunta_club">
+
+    <TextView
+        android:id="@+id/textCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pregunta_club"
+        android:padding="8dp"
+        android:text=""
+        android:textColor="@color/colorClubBorde"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textPregunta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text=""
+        android:textColor="@color/colorClubBorde"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <Button
+            android:id="@+id/buttonOpcion1"
+            style="@style/AppTheme.botonOpciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarOpcion"
+            android:text="" />
+
+        <Button
+            android:id="@+id/buttonOpcion2"
+            style="@style/AppTheme.botonOpciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarOpcion"
+            android:text="" />
+
+        <Button
+            android:id="@+id/buttonOpcion3"
+            style="@style/AppTheme.botonOpciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarOpcion"
+            android:text=""/>
+
+        <Button
+            android:id="@+id/buttonOpcion4"
+            style="@style/AppTheme.botonOpciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarOpcion"
+            android:text="" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,45 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Líneas horizontales-->
+    <item android:top="0dp" android:bottom="0dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="25dp" />
+            <solid android:color="@color/granadaPrincipal" />
+        </shape>
+    </item>
+
+    <item android:top="30dp" android:bottom="30dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+        </shape>
+    </item>
+
+    <item android:top="80dp" android:bottom="80dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/granadaPrincipal" />
+        </shape>
+    </item>
+
+    <item android:top="150dp" android:bottom="150dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+        </shape>
+    </item>
+
+    <item android:top="200dp" android:bottom="200dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="50dp" />
+            <solid android:color="@color/granadaPrincipal" />
+        </shape>
+    </item>
+
+    <!-- Bordes redondeados -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" />
+            <stroke
+                android:width="5dp"
+                android:color="@color/granadaTercero" />
+        </shape>
+    </item>
+</layer-list>
