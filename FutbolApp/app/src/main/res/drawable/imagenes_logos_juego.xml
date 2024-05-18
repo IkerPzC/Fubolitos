@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#B3000000" /> <!-- Ajusta el valor alfa para aumentar la opacidad -->
+    <corners android:radius="20dp" />
+</shape>
